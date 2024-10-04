@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.xiefrish2021</groupId>
+    <artifactId>NcehIO</artifactId>
+    <version>1.0.0.Final</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>nceh-buffer</module>
+        <module>nceh-api</module>
+        <module>nceh-core</module>
+        <module>nceh-commons</module>
+        <module>nceh-all</module>
+    </modules>
+
+    <description>
+        A simple web framework based on Apache Mina.
+    </description>
+
+    <developers>
+        <developer>
+            <id>CoderFrish</id>
+            <name>Frish2021</name>
+            <email>1573880184@qq.com</email>
+        </developer>
+    </developers>
+
+    <url>https://www.github.com/XieFrish2021/NcehIO/</url>
+
+    <issueManagement>
+        <system>github</system>
+        <url>https://github.com/XieFrish2021/NcehIO/issues</url>
+    </issueManagement>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
