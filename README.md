@@ -2,7 +2,7 @@
 
 <h4>NcehIO是一个基于Apache Mina的一个NIO网络框架</h4>
 <h4>并参考了作者之前写的Atty框架，而写出来的。</h4>
-[![Apache License]()](LICENSE)
+[![Apache License](https://img.shields.io/github/license/XieFrish2021/NcehIO?style=flat-square/)](LICENSE)
 
 **[English](./README_EN.md)** | **中文**\
 该框架的基础部分：
